@@ -16,7 +16,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stkaapa&show_icons=true&locale=en&layout=compact" alt="stkaapa" /></p>
 
-
+![snake gif](https://github.com/StkaaPa/StkaaPa/blob/output/github-contribution-grid-snake.gif)
 
 
 
