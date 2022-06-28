@@ -1,5 +1,4 @@
 <h1 align="center">Hi There👋 , I'm Samuel Gonçalves</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stkaapa&label=Profile%20views&color=0e75b6&style=flat" alt="stkaapa" /> </p>
 
 - 🔭 I’m currently working as **ETL developer**
 
